@@ -1,4 +1,4 @@
-# Data-Exploration,-Cleaning,-and-Visualization-Project-1
+# Data Exploration, Cleaning, and Visualization Project 1
 
 ## Information
 
