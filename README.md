@@ -1,8 +1,8 @@
-# Data-Cleaning-with-SQL
+# Data-Exploration,-Cleaning,-and-Visualization-Project-1
 
 ## Information
 
-The project was inspired and taken as material from YouTuber AlexTheAnalyst for the purpose as learning material. The codes will be redone and used as reference to start other projects of data cleaning for various datasets. 
+The project was inspired and taken as material from YouTuber AlexTheAnalyst for the purpose as learning material. The codes will be redone and used as reference for other projects of that follows the same data analysis process. 
 
 ## Tools and Language
 
