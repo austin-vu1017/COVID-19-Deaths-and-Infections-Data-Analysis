@@ -6,8 +6,8 @@ The project was inspired and taken as material from YouTuber AlexTheAnalyst for 
 
 ## Tools and Language
 
-- Microsoft SQL Server Management Studio with Azure Data Studio
+- Microsoft SQL Server Management Studio with Azure Data Studio (used alongside SQL Server 2019 Express Ed.)
 - Python in Visual Studio (MiniConda environment)
-- Jupyter and IPython Notebook
+- Jupyter and IPython Notebook (Extension in Visual Studio)
 - RStudio
-- Tableau
+- Tableau (Public Ed.)
