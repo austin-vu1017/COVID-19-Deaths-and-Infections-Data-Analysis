@@ -1,4 +1,4 @@
-# COVID-19 Deaths and Infection Data Analysis
+# COVID-19 Deaths and Infections - Data Analysis
 
 ## Information
 
