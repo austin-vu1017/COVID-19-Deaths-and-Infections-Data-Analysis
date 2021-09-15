@@ -1,4 +1,4 @@
-# Data Exploration, Cleaning, and Visualization Project 1
+# COVID-19 Deaths and Infection Data Analysis
 
 ## Information
 
