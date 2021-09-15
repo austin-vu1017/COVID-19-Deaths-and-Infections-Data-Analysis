@@ -2,7 +2,7 @@
 
 ## Information
 
-The project was inspired and taken as material from YouTuber AlexTheAnalyst for the purpose as learning material. The codes will be redone and used as reference for other projects of that follows the same data analysis process. The work is organized into 4 other branches as to keep the main-branch clean. Hopefully it can be accessed and seen. 
+This is inspired by AlexTheAnalyst and will inspire me to start many more projects to come. The codes will be redone and used as reference for other projects of that follows the same data analysis process. The work is organized into 4 other branches as to keep the main-branch clean. Hopefully it can be accessed and seen. 
 
 ## Tools and Language
 
